@@ -1,3 +1,10 @@
 start of referat
+<<<<<<< HEAD
 lorem ipsun dolor sit ammeti
 hahahahah
+=======
+do some changes on new branch
+do some changes on new branch
+>>>>>>> referatV2
+
+go babananas
